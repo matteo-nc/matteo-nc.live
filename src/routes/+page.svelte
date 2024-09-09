@@ -27,7 +27,7 @@
 		<h1 class="text">matteo-nc.live</h1>
 	</div>
 	<div class="flex">
-		<a href="https://github.com/***REMOVED***" target="_blank" class="github logo">
+		<a href="https://github.com/matteo-nc" target="_blank" class="github logo">
 			<img src={github} alt="github logo" />
 		</a>
 		<a href="https://linkedin.com/in/matteo-nc" target="_blank" class="linkedin logo">
