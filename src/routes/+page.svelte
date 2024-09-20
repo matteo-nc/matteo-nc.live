@@ -24,7 +24,7 @@
 
 <div class="flex flex-col justify-center items-center h-screen">
 	<div>
-		<h1 class="text">matteo-nc.live</h1>
+		<h1 class="text">matteo-nc.com</h1>
 	</div>
 	<div class="flex">
 		<a href="https://github.com/matteo-nc" target="_blank" class="github logo">
